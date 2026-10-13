@@ -5,6 +5,8 @@
 > [joshbartlettband-web/felucca-rainbow#1](https://github.com/joshbartlettband-web/felucca-rainbow/pull/1); once merged,
 > use the original project and this repo will be archived. All credit to joshbartlettband-web.
 
+**Install:** in Chrome or Edge at **https://genkigenki.github.io/smk37/** (picks the build for your model). Packages: [Releases](../../releases).
+
 A music toy for little hands: this fork of [Felucca](https://github.com/hugelton/Felucca) starts the M-VAVE FM-1 as a toy for a
 four-year-old. 73 friends, each with its own picture, sound, sky and favorite beat; a color for every note; 13 beats with a
 bass line that always fits; and a knob for big and small, day and night, echo and wiggle.
