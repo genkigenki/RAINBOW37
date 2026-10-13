@@ -1,7 +1,12 @@
-# RAINBOW37: Rainbow mode on the M-Vave SMK-37
+# Rainbow mode on the M-Vave SMK-37
+
+> Unofficial SMK-37 build of [Rainbow mode](https://github.com/joshbartlettband-web/felucca-rainbow) by
+> **joshbartlettband-web**. Offered upstream as
+> [joshbartlettband-web/felucca-rainbow#1](https://github.com/joshbartlettband-web/felucca-rainbow/pull/1); once merged,
+> use the original project and this repo will be archived. All credit to joshbartlettband-web.
 
 Rainbow mode (see [RAINBOW.md](RAINBOW.md)) on the SMK-37 Pro, SMK-37 Elite and MKE-P37 (the Starrykey 37 Play
-uses the Pro build). Unofficial; the FM-1 build is unchanged. SMK-37 port by genkigenki.
+uses the Pro build). Unofficial; the FM-1 build is unchanged.
 
 ## Controls (the toy)
 

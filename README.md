@@ -1,5 +1,10 @@
 # Rainbow mode for the FM-1
 
+> Unofficial SMK-37 build of [Rainbow mode](https://github.com/joshbartlettband-web/felucca-rainbow) by
+> **joshbartlettband-web**. Offered upstream as
+> [joshbartlettband-web/felucca-rainbow#1](https://github.com/joshbartlettband-web/felucca-rainbow/pull/1); once merged,
+> use the original project and this repo will be archived. All credit to joshbartlettband-web.
+
 A music toy for little hands: this fork of [Felucca](https://github.com/hugelton/Felucca) starts the M-VAVE FM-1 as a toy for a
 four-year-old. 73 friends, each with its own picture, sound, sky and favorite beat; a color for every note; 13 beats with a
 bass line that always fits; and a knob for big and small, day and night, echo and wiggle.
@@ -7,7 +12,7 @@ bass line that always fits; and a knob for big and small, day and night, echo an
 - **The website** (the link under *About* on this page) has a demo video and two buttons: **Try it in your browser**, no FM-1
   needed, and **Put it on an FM-1** (Chrome or Edge, USB).
 - **Every control, and how it is built:** [RAINBOW.md](RAINBOW.md)
-- **On the M-Vave SMK-37 (RAINBOW37):** controls, build, install and roll back: [SMK37.md](SMK37.md)
+- **On the M-Vave SMK-37:** controls, build, install and roll back: [SMK37.md](SMK37.md)
 
 Installing firmware is at your own risk; the installer can put the official firmware back. This is an independent fan project, not
 made or endorsed by M-VAVE. Everything below is Felucca's own README, by Leo Kuroshita and Hügelton Instruments (GPL-3.0).
